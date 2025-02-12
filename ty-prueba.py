@@ -11,4 +11,4 @@ def es_primo(numero):
     return True
 print(es_primo(2))
 
-print("Probando probando")
+print(2+2)

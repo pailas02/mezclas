@@ -7,3 +7,6 @@ print("cambio tres")
 print("funciono")
 
 print("3-2")
+
+def funcion():
+    print("funciono")
