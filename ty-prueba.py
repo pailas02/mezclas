@@ -12,3 +12,4 @@ def es_primo(numero):
 print(es_primo(2))
 
 print(2+2)
+print(2-2)
