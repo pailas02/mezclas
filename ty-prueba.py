@@ -1,5 +1,1 @@
-print("chao")
-a=2
-b=3
-c= a+b 
-print("Hola" + c)
+print ("holamundo desde ty-prueba.py")
